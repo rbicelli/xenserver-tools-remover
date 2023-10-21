@@ -1,4 +1,4 @@
-# xenserver-tools-remover.ps1
+# Xenserver Tools Remover
 
 After a week of trying exporting a vm from xen for importing in other Hypervisors and hundreds of BSODs, I wrote this script which clean the leftovers of Citrix Tools.
 
