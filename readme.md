@@ -2,7 +2,7 @@
 
 After a week of trying exporting a vm from xen for importing in other Hypervisors and hundreds of BSODs, I wrote this script which clean the leftovers of Citrix Tools.
 
-This solves the **INACCESSIBLE_BOOT_DEVICE** error and **SYSTEM_TREAD_EXCEPTION_NOT_HANDLED** error.
+This solves the **INACCESSIBLE_BOOT_DEVICE** error and **SYSTEM_THREAD_EXCEPTION_NOT_HANDLED** error.
 
 Usage: launch the script and watch the magic.
 
